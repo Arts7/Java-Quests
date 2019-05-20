@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Decipherer",
+            "request": "launch",
+            "mainClass": "Decipherer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - decipherer",
+            "request": "launch",
+            "mainClass": "decipherer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Indiana",
+            "request": "launch",
+            "mainClass": "Indiana"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pond",
+            "request": "launch",
+            "mainClass": "Pond"
+        }
+    ]
+}
